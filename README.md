@@ -2,9 +2,7 @@
 
 ### I'm a community-taught Software Developer,
 <div align="center>
-    <br>
          <img src='neon.svg' width='320px'>
-    <br>
 </div
 Here is a list of what I have been up to lately:
 - [stay1st/lunapuff](https://github.com/stay1st/lunapuff) - My personal portfolio
