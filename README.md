@@ -6,6 +6,7 @@
       <img src='neon.svg' width='400px'>
     <br>
 </div>
+<div>
 Here is a list of what I have been up to lately:
 - [stay1st/lunapuff](https://github.com/stay1st/lunapuff) - My personal portfolio
 - [stay1st/expressjs-mongodb-nodejs-backend](https://github.com/stay1st/expressjs-mongodb-nodejs-backend) - The title says it all!
@@ -13,7 +14,7 @@ Here is a list of what I have been up to lately:
 - [vercel/stay1st/haunted-3D-Scene](https://vercel.com/stay1st/haunted-house) - Geometrical Meshes rendered on a plane with some not so spooky ghosts 🎃👻
 - [3D Text](https://name-text-3d.vercel.app/) - This one moves too! 🤓
 - [stay1st/javascript-calculator](https://stay1st.github.io/javascript-calculator/) It's a formula expression calculator.... but... I made it look cool.
-- 
+</div>
 
 
 
