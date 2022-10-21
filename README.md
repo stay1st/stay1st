@@ -1,11 +1,11 @@
 # Hi I'm Josh,
 
 ### I'm a community-taught Software Developer,
-<div align="center>
-<br>
-         <img src='neon.svg' width='400px'>
-<br>
-            </div>
+<div align="center">
+    <br>
+      <img src='neon.svg' width='400px'>
+    <br>
+</div>
 Here is a list of what I have been up to lately:
 - [stay1st/lunapuff](https://github.com/stay1st/lunapuff) - My personal portfolio
 - [stay1st/expressjs-mongodb-nodejs-backend](https://github.com/stay1st/expressjs-mongodb-nodejs-backend) - The title says it all!
