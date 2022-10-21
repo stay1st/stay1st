@@ -1,6 +1,6 @@
 # Hi I'm Josh,
 
-### I'm a new "self-taught" Software Developer,
+### I'm a community-taught Software Developer,
 Here is a list of what I have been up to lately:
 - [stay1st/lunapuff](https://github.com/stay1st/lunapuff) - My personal portfolio
 - [stay1st/expressjs-mongodb-nodejs-backend](https://github.com/stay1st/expressjs-mongodb-nodejs-backend) - The title says it all!
