@@ -1,22 +1,23 @@
 # Hi I'm Josh,
 
-### I'm a community-taught Software Developer,
+### A community-taught Software Developer,
 <div align="center">
     <br>
       <img src='neon.svg' width='400px'>
     <br>
 </div>
-<h1 align="center">Hi 👋, I'm Joshua Crawford</h1>
+<h1 align="center">👋 Welcome to my profile</h1>
 <h3 align="center">I'm a community-taught Javascript Developer</h3>
 
-- 🔭 I’m currently working on my [Portfolio Projects](https://github.com/stay1st/lunapuff)
+- 🔭 Currently working on my [Portfolio Projects](https://github.com/stay1st/lunapuff)
 
-- 🌱 I’ve been working in:  **JS, NodeJS, ReactJS, ThreeJS, WebGL**
+- 🌱 I've done work in:  **JS, NodeJS, ReactJS, ThreeJS, WebGL**
+
 - 📒 I've been learning and have interest in **MongoDB, SQL, C++**
 
 - 👯 I’m interested in solving problematic solutions.
 
-- 👨‍💻 My projects are available at [github.com/stay1st, vercel.com/stay1st](github.com/stay1st, vercel.com/stay1st)
+- 👨‍💻 You can find my work at [github.com/stay1st](github.com/stay1st) & [vercel.com/stay1st](vercel.com/stay1st)
 
 - 📝 I regularly attend Pair Programming sessions at [https://www.codesmith.io/](https://www.codesmith.io/)
 
