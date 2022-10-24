@@ -11,9 +11,9 @@
 
 - 🔭 Currently working on my [Portfolio Projects](https://github.com/stay1st/lunapuff)
 
-- 🌱 I've done work in:  **JS, NodeJS, ReactJS, ThreeJS, WebGL**
+- 🌱 I've done work in:  **HTML/CSS, SASS/SCSS, Bootstrap, JQuery, JS, NodeJS, ReactJS, ThreeJS, WebGL, React Libraries & Frameworks, MongoDB, ExpressJS**
 
-- 📒 I've been learning and have interest in **MongoDB, SQL, C++**
+- 📒 I'm currently studying **BackEnd Development & APIs*
 
 - 👯 I’m interested in solving problematic solutions.
 
