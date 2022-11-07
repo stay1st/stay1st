@@ -6,7 +6,7 @@
       <img src='neon.svg' width='400px'>
     <br>
 </div>
-<h1 align="center">👋 Hi, there! Welcome to my profile</h1>
+<h1 align="center">👋 Hi there, Welcome to my profile</h1>
 <h3 align="center">I'm a community-taught Javascript Developer</h3>
 
 - 🔭 Currently working on my [Spotlist Inc.- On Demand Cosmetology App](https://www.spotlistinc.com/)
@@ -15,7 +15,7 @@
 
 - 📒 I'm actively studying **C++, ThreeJS, SQL*
 
-- 👯 I’m passionate about **Projects that will make a life changing difference**.
+- 👯 I’m passionate about **Projects that will make a life changing difference**
 
 - 👨‍💻 You can find my work at [github.com/stay1st](github.com/stay1st) & [vercel.com/stay1st](vercel.com/stay1st)
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **joshua.crawford.mail@gmail.com**
 
-- ⚡ Random facts about me: **I skateboard & snowboard every year, I have 5 sisters 😱 and 2 brothers. I call to talk on the phone rather than text, and I don't watch TV.**
+- ⚡ Random facts about me: **I skateboard & snowboard every year, I have 5 sisters 😱 and 2 brothers. I call to talk on the phone rather than text, and I don't watch TV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
