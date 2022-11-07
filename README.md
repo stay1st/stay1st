@@ -6,7 +6,7 @@
       <img src='neon.svg' width='400px'>
     <br>
 </div>
-<h1 align="center">👋 Welcome to my profile</h1>
+<h1 align="center">👋 Hi, there! Welcome to my profile</h1>
 <h3 align="center">I'm a community-taught Javascript Developer</h3>
 
 - 🔭 Currently working on my [Spotlist Inc.- On Demand Cosmetology App](https://www.spotlistinc.com/)
