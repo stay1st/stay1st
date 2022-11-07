@@ -9,19 +9,19 @@
 <h1 align="center">👋 Welcome to my profile</h1>
 <h3 align="center">I'm a community-taught Javascript Developer</h3>
 
-- 🔭 Currently working on my [Portfolio Projects](https://github.com/stay1st/lunapuff)
+- 🔭 Currently working on my [Spotlist Inc.- On Demand Cosmetology App](https://www.spotlistinc.com/)
 
 - 🌱 I've done work in:  **Javascript, NodeJS, C++, ReactJS, ThreeJS, WebGL, React Libraries & Frameworks, MongoDB, ExpressJS, Bootstrap, JQuery, HTML/CSS, SASS/SCSS**
 
-- 📒 I'm currently studying **BackEnd Development & APIs*
+- 📒 I'm actively studying **C++, ThreeJS, SQL*
 
-- 👯 I’m interested in solving problematic solutions.
+- 👯 I’m passionate about **Projects that will make a life changing difference**.
 
 - 👨‍💻 You can find my work at [github.com/stay1st](github.com/stay1st) & [vercel.com/stay1st](vercel.com/stay1st)
 
 - 📝 I regularly attend Pair Programming sessions at [https://www.codesmith.io/](https://www.codesmith.io/)
 
-- 💬 Ask me about **ReactJS, ThreeJS, WebGL**
+- 💬 Ask me about **ReactJS, ThreeJS, WebGL, ReactThree-Fiber**
 
 - 📫 How to reach me **joshua.crawford.mail@gmail.com**
 
