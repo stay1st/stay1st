@@ -9,7 +9,7 @@
 <h1 align="center">"<develop>All Day Every Day</develop>"</h1>
 <h3 align="center">I'm a community-taught Javascript Developer</h3>
 
-- 🔭 Currently working on my [Spotlist Inc.- On Demand Cosmetology App](https://www.spotlistinc.com/)
+- 🔭 Currently working on a team for [Spotlist Inc.- On Demand Cosmetology App](https://www.spotlistinc.com/)
 
 - 🌱 I've done work in:  **Javascript, NodeJS, C++, ReactJS, ThreeJS, WebGL, React Libraries & Frameworks, MongoDB, ExpressJS, Bootstrap, JQuery, HTML/CSS, SASS/SCSS**
 
