@@ -13,7 +13,7 @@
 
 - 🌱 I've done work in:  **Javascript, NodeJS, C++, ReactJS, ReactNative, ThreeJS, WebGL, NextJS, MongoDB, ExpressJS, Bootstrap, JQuery, HTML/CSS, SASS/SCSS**
 
-- 📒 I'm actively working in **PostgreSQL, React-Native, JS, C++, Html, SASS*
+- 📒 I'm actively working in **PostgreSQL, React-Native, JS, C++, HTML, SASS*
 
 - 👯 I’m passionate about **Projects that will make a life changing difference**
 
