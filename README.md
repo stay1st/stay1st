@@ -11,9 +11,9 @@
 
 - 🔭 Currently working on a team for [Spotlist Inc.- On Demand Cosmetology App](https://www.spotlistinc.com/)
 
-- 🌱 I've done work in:  **Javascript, NodeJS, C++, ReactJS, ThreeJS, WebGL, React Libraries & Frameworks, MongoDB, ExpressJS, Bootstrap, JQuery, HTML/CSS, SASS/SCSS**
+- 🌱 I've done work in:  **Javascript, NodeJS, C++, ReactJS, ReactNative, ThreeJS, WebGL, NextJS, MongoDB, ExpressJS, Bootstrap, JQuery, HTML/CSS, SASS/SCSS**
 
-- 📒 I'm actively studying **C++, ThreeJS, SQL*
+- 📒 I'm actively working in **PostgreSQL, React-Native, JS, C++, Html, SASS*
 
 - 👯 I’m passionate about **Projects that will make a life changing difference**
 
